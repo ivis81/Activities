@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="nombre">NOMBRE COMPLETO</string>
+    <string name="telefono">TELEFONO</string>
+    <string name="email">EMAIL</string>
+    <string name="descripcion">DESCRIPCION CONTACTO</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="fecha">FECHA DE NACIMIENTO</string>
+    <string name="editar">Editar Datos</string>
+</resources>
+
